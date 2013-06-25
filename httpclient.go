@@ -13,7 +13,7 @@ package httpclient
 import (
 	"container/heap"
 	"crypto/tls"
-	"github.com/mreiferson/go-httpclient/pqueue"
+	"github.com/buger/go-httpclient/pqueue"
 	"io"
 	"net"
 	"net/http"
